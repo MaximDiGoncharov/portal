@@ -1,0 +1,27 @@
+{
+    "ru": {
+        "success": "<strong>Подравляем успешной регистрацией!</strong> Проверьте свой почтовый ящик – письмо с дальнейшими инструкциями по активации отправлено на <span>{user_email}</span>. Это окно можно закрыть.",
+        "email": "Не валидный Email",
+        "domain_exist": "Такой домен уже зарегистрирован",
+        "limit_ip": "Максимальное количество зарегистрированных адресов на ваш ip",
+        "error": "Что-то пошло не так...",
+        "invite": "Пригласительный код не найден",
+        "domain_is_not_valid": "Используйте только строчные английские буквы, цифры и -, не менее 3",
+        "domain_permitted": "Этот домен нельзя использовать",
+        "domain_not_found": "Этот домен не найден",
+        "system_already_init": "Этот аккаунт уже был ранее активирован"
+    },
+    "en": {
+        "success": "<strong>Congratulations on successful registration!</strong> Check your mailbox – an email with further activation instructions has been sent to <span>{user_email}</span>.This window, you can close it.",
+        "email": "Invalid Email",
+        "domain_exist": "The domain has already been registered",
+        "limit_ip": "Max registration tries on your IP",
+        "error": "Something went wrong",
+        "invite": "You`re code invite not found",
+        "domain_is_not_valid": "Use only small english letters, numbers and -, at least 3",
+        "domain_permitted": "This domain cannot be used",
+        "domain_not_found": "This domain not found",
+        "system_already_init": "This account has already been activated before"
+
+    }
+}

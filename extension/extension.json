@@ -1,0 +1,91 @@
+{
+   "category": {
+      "1": {
+         "name": "Email \u0441\u0435\u0440\u0432\u0438\u0441\u044b \u0438 sms \u0440\u0430\u0441\u0441\u044b\u043b\u043a\u0438",
+         "description": "\u0418\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f \u0441 email \u0441\u0435\u0440\u0432\u0438\u0441\u0430\u043c\u0438 \u0438 sms \u0440\u0430\u0441\u0441\u044b\u043b\u043a\u0438"
+      },
+      "2": {
+         "name": "\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u044b",
+         "description": "\u0418\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f \u0441 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0441\u0435\u0442\u044f\u043c \u0438 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u043c\u0438 \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u0430\u043c\u0438"
+      },
+      "3": {
+         "name": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f",
+         "description": "\u0418\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f \u0441 \u0442\u0435\u043b\u0435\u043a\u043e\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u044f\u043c\u0438"
+      }
+   },
+   "extension": {
+      "mailchip": {
+         "view_name": "mailchip",
+         "category": 1,
+         "icon": "email",
+         "price": 299,
+         "tags": [
+            "\u0425\u0438\u0442",
+            "\u0425\u0430\u0439\u043f"
+         ]
+      },
+      "sendpulse": {
+         "view_name": "sendpulse",
+         "category": 1,
+         "icon": "email",
+         "price": 299,
+         "tags": [
+            "\u041b\u0435\u0439\u0431\u043b"
+         ]
+      },
+      "telegram": {
+         "view_name": "\u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c",
+         "category": 2,
+         "icon": "telegram"
+      },
+      "tiktok": {
+         "view_name": "\u0442\u0438\u043a\u0422\u043e\u043a",
+         "category": 2,
+         "icon": ""
+      },
+      "pinterest": {
+         "view_name": "pinterest",
+         "icon": "",
+         "price": 299,
+         "category": 2
+      },
+      "ale": {
+         "view_name": "\u0410\u043b\u0451",
+         "category": 3,
+         "icon": "phone",
+         "price": 299,
+         "tags": [
+            "\u0425\u0438\u0442"
+         ]
+      },
+      "extension_name": {
+         "view_name": "view_name",
+         "category": 2,
+         "icon": "icon",
+         "price": 1000,
+         "tags": [
+            "Hit"
+         ]
+      },
+      "hello": {
+         "view_name": "php hello wolrd",
+         "category": 2,
+         "icon": "email",
+         "price": 1000,
+         "tags": [
+            "Hit"
+         ],
+         "is_server": true
+      },
+      "weather": {
+         "view_name": "simple weather",
+         "category": 2,
+         "icon": "icon",
+         "price": 100,
+         "tags": [
+            "Hit"
+         ],
+         "is_server": true
+      }
+   }
+}

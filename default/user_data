@@ -1,0 +1,32 @@
+{
+    "order_cur_funnel_id": "1",
+    "notification_last_id": "null",
+    "colorElements": "null",
+    "minimizeMenu": "false",
+    "darkTheme": "null",
+    "lang": "ru",
+    "notification": {
+        "contact_add": 7,
+        "contact_edit": 0,
+        "contact_delete": 0,
+        "job_create": 7,
+        "job_done": 0,
+        "order_create": 7,
+        "order_change": 0,
+        "order_delete": 0,
+        "order_change_status": 7,
+        "order_change_user": 7,
+        "order_success": 0,
+        "order_fail": 0,
+        "chat_message": 7,
+        "portal_balance": 0
+    },
+    "events": {
+        "contact_add": false,
+        "order_create": false,
+        "order_success": false,
+        "job_create": false,
+        "job_done": false,
+        "chat_message": false
+    }
+}

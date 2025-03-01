@@ -1,0 +1,15 @@
+{
+        "lead": {
+                "is_active": false
+        },
+        "smtp": {},
+        "google_contacts": {
+                "is_access": true,
+                "is_active": false
+        },
+        "ignore_users_in_report": false,
+        "currency": "RUB"
+}
+
+
+
